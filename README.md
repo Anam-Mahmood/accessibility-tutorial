@@ -3,6 +3,6 @@
 ## Prerequisites
 ## Estimated Time
 ## Steps
-## (STEP 1)
+## Install the Accessibility Checker extention on your browser
 ## (STEP 2)
 ## Summary
